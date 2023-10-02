@@ -201,6 +201,10 @@ td:hover{
     box-shadow: 3px 3px 15px black;
 }
 
+footer>p{
+    margin-top: 30px;
+    text-align: center;
+}
 
 @media screen and (max-width: 1260px){
     #hero-section{
